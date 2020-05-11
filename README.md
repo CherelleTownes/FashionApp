@@ -1,9 +1,5 @@
 # FILTHY FASHION <!-- omit in toc -->
 
-> The Project Planning section **should be completed** for your project pitch with instructors.
->
-> To ensure correct Markdown, I recommend copy/pasting the raw template code.
-
 - [Overview](#Overview)
   - [Core Features](#Core-Features)
   - [Goals](#Goals)
