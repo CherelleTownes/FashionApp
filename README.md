@@ -55,7 +55,7 @@ Created, designed, and developed by [Cherelle Townes](https://github.com/cherell
 _The **Filthy Fashion** MVP will function as a fullstack app. The backend will be built on a Ruby on Rails server, exposing RESTful JSON endpoints. have a RESTful JSON API. lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dapibus fermentum risus vitae bibendum. Integer vel ipsum mollis odio sollicitudin ornare eu vel ex. In quis fringilla velit, ac maximus quam. Etiam eget placerat neque. Aenean faucibus sem non nisi lobortis ullamcorper._
 
 
-### Client (Front End) <!-- omit in toc -->
+## Client (Front End)
 
 - Interactive **React** app, built using `npx create-react-app`.
     - Have at least 8 separate, rendered components in an organized and understandable React file structure.
