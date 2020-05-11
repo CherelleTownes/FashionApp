@@ -12,13 +12,12 @@
     - [Component Estimates](#Component-Estimates)
   - [Server (Back End)](#Server-Back-End)
     - [ERD Model](#ERD-Model)
-    - [Post-MVP](#Post-MVP)
-    <!-- - [Data Heirarchy](#Data-Heirarchy)
+    - [Data Heirarchy](#Data-Heirarchy)
     - [Data Heirarchy](#Data-Heirarchy-1)
-  - [Dependencies](#Dependencies) -->
-<!-- - [Post-MVP](#Post-MVP) -->
-<!-- - [Code Showcase](#Code-Showcase)
-- [Code Issues & Resolutions](#Code-Issues--Resolutions) -->
+  <!-- - [Dependencies](#Dependencies)  -->
+- [Post-MVP](#Post-MVP)
+ <!-- - [Code Showcase](#Code-Showcase)
+- [Code Issues & Resolutions](#Code-Issues--Resolutions)  -->
 
 <br>
 
@@ -159,7 +158,7 @@ src
 
 <br>
 
-### Server (Back End) <!-- omit in toc -->
+### Server (Back End)
 
 - Backend built with a **RESTful JSON API**.
   - Built with **Ruby on Rails** server, exposing RESTful JSON endpoints.
@@ -182,7 +181,7 @@ src
 
 -  Computer generated relationship table.
 
-<!-- #### Data Heirarchy
+#### Data Heirarchy
 
 > Use this section to display the database, table, and attribute heirarchy.
 
@@ -190,18 +189,25 @@ src
 
 database_db
 |__ users/
-|__ resources/
-|__ posts/
+|__ clothing_items/
+|__ clothing_colors/
+|__ clothing_variations/
+|__ colors/
 
 ```
 
 #### Data Heirarchy
 
-> Use this section to display the expected endpoints from your API.
+API endpoints
+
+- localhost:3000/allitems
+- localhost:3000/create
+- localhost:3000/edit
+- localhost:3000/delete
 
 <br>
 
-### Dependencies
+<!-- ### Dependencies
 
 > Use this section to list all supporting libraries and dependencies, and their role in the project.
 
@@ -213,11 +219,10 @@ database_db
 |     Express      | _Lorem ipsum dolor sit amet, consectetur._ |
 |  Express Router  | _Lorem ipsum dolor sit amet, consectetur._ |
 
-<br> 
+<br>  -->
 
 ***
 
-> This section is not necessary for your pitch! -->
 
 ## Post-MVP
 
