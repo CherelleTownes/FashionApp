@@ -78,27 +78,35 @@ _The **Filthy Fashion** MVP will function as a fullstack app. The backend will b
 
 <img src="Images/Desktop-Wireframes/Dwf-2.png">
 
-- Desktop Page 2
+- Desktop Sign-up
+
+<img src="Images/Mobile-Wireframes/Mwf-2.png" height="400">
+
+- Mobile Sign-up
 
 <img src="Images/Desktop-Wireframes/Dwf-3.png">
 
-- Desktop Page 3
+- Desktop Log-in
+
+<img src="Images/Mobile-Wireframes/Mwf-1.png" height="400">
+
+- Mobile Log-in
 
 <img src="Images/Desktop-Wireframes/Dwf-4.png">
 
-- Desktop Page 4
+- Desktop Create
 
 <img src="Images/Desktop-Wireframes/Dwf-5.png">
 
-- Desktop Page 5
+- Desktop All Variations
 
 <img src="Images/Desktop-Wireframes/Dwf-6.png">
 
-- Desktop Page 6
+- Desktop Pick a Color
 
 <img src="Images/Desktop-Wireframes/Dwf-7.png">
 
-- Desktop Page 6
+- Desktop All Items
 
 #### Component Hierarchy
 
